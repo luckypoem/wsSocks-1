@@ -1,4 +1,4 @@
-module wsSocks
+module github.com/briteming/wsSocks
 
 go 1.14
 
